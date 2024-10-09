@@ -1,0 +1,25 @@
+.Sachin{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 25%;
+    margin-bottom: 25%;
+    color: white;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+}
+.Tendulkar
+{
+    border: 3px solid white ;
+    width: 100%;
+    
+}
+body
+{
+    background-color: black;
+}
+h1
+{
+    font-size: 3rem;
+    text-transform: uppercase;
+    color: red;
+}
